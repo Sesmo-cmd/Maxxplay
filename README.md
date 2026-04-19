@@ -1,11 +1,9 @@
-[README.md](https://github.com/user-attachments/files/26874544/README.md)
-# Maxxplay
-A browser game built entirely with HTML5 Canvas and vanilla JavaScript — no frameworks, no libraries. Features 3 playable zones, unique boss battles, 6 enemy types, chiptune sound engine, smooth physics, and mobile touch controls. Inspired by Super Mario Bros and GTA VII
+[README (1).md](https://github.com/user-attachments/files/26875230/README.1.md)
 # 🎮 Super Mario: Vice City
 
 > It's Mario. But he's in Vice City. Stomp thugs, dodge cops, collect cash and fight bosses across 3 neon-drenched zones. One HTML file. No install. Just play.
 
-**▶ [Play Now](https://maxxplay.netlify.app)**
+**▶ [Play Now](https://maxxplay.vercel.app)**
 
 ---
 
